@@ -5,7 +5,8 @@ P-RAG APP is a personal Retrieval-Augmented Generation (RAG) app. You upload you
 Ask questions about your own documents and get answers grounded in what you uploaded.
 
 ## Requirements
--Python 3.9 or higher
+-Python 3.9 or higher.
+
 -An API key for your LLM provider (if applicable)
 
 ### Install Python using Miniconda
